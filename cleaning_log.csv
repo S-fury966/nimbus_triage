@@ -1,0 +1,212 @@
+id,action,reason
+tr-00013,fix,priority P1->P3
+tr-00018,fix,priority P1->P3
+tr-00020,fix,renamed prio->priority (value recomputed); date 02/09/2026->2026-09-02; priority MISSING->P3; needs_human True->False
+tr-00023,fix,priority P1->P3
+tr-00034,drop,garbage/test row: 'test test 123'
+tr-00042,fix,needs_human True->False
+tr-00045,fix,priority P3->P1
+tr-00049,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00058,fix,renamed prio->priority (value recomputed); date 26/08/2026->2026-08-26; priority MISSING->P3
+tr-00059,fix,priority P1->P3
+tr-00060,drop,invalid/truncated JSON
+tr-00071,fix,txn_id normalized
+tr-00072,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00073,fix,priority P1->P3; needs_human True->False
+tr-00077,fix,renamed prio->priority (value recomputed); date 29/07/2026->2026-07-29; priority MISSING->P2
+tr-00083,fix,needs_human True->False
+tr-00084,fix,needs_human True->False
+tr-00095,drop,invalid/truncated JSON
+tr-00114,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00116,fix,needs_human False->True
+tr-00120,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00123,fix,renamed prio->priority (value recomputed); date 21/07/2026->2026-07-21; priority MISSING->P1
+tr-00125,drop,invalid/truncated JSON
+tr-00129,fix,priority P3->P2
+tr-00134,fix,needs_human False->True
+tr-00146,fix,priority P1->P3
+tr-00147,fix,txn_id normalized
+tr-00151,fix,txn_id normalized
+tr-00153,fix,renamed prio->priority (value recomputed); date 04/09/2026->2026-09-04; priority MISSING->P3
+tr-00154,fix,priority P3->P2
+tr-00160,fix,renamed prio->priority (value recomputed); date 08/08/2026->2026-08-08; priority MISSING->P1
+tr-00164,drop,garbage/test row: 'test'
+tr-00172,drop,invalid/truncated JSON
+tr-00178,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00184,fix,priority P3->P1
+tr-00187,fix,priority P1->P3; needs_human True->False
+tr-00192,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00212,fix,priority P3->P1
+tr-00219,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00220,fix,priority P3->P2
+tr-00223,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00225,fix,priority P1->P3
+tr-00249,fix,renamed prio->priority (value recomputed); date 23/08/2026->2026-08-23; priority MISSING->P2
+tr-00251,fix,needs_human True->False
+tr-00258,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00263,fix,renamed prio->priority (value recomputed); date 11/07/2026->2026-07-11; priority MISSING->P3
+tr-00267,drop,invalid/truncated JSON
+tr-00294,fix,priority P3->P2
+tr-00306,fix,priority P1->P3
+tr-00309,fix,priority P1->P3
+tr-00312,fix,priority P1->P3
+tr-00318,fix,language hi-en->en
+tr-00320,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00346,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00347,fix,renamed prio->priority (value recomputed); date 07/08/2026->2026-08-07; priority MISSING->P3
+tr-00355,fix,priority P3->P2
+tr-00357,drop,invalid/truncated JSON
+tr-00365,fix,renamed prio->priority (value recomputed); priority MISSING->P3; needs_human False->True
+tr-00370,fix,renamed prio->priority (value recomputed); date 10/09/2026->2026-09-10; priority MISSING->P1
+tr-00380,fix,priority P1->P3
+tr-00382,fix,priority P2->P3
+tr-00385,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00391,fix,txn_id normalized
+tr-00413,fix,priority P1->P3
+tr-00420,fix,txn_id normalized
+tr-00424,fix,priority P3->P1
+tr-00427,fix,priority P3->P1
+tr-00452,fix,priority P1->P3
+tr-00457,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00460,fix,txn_id normalized
+tr-00461,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00465,fix,needs_human True->False
+tr-00470,fix,txn_id normalized
+tr-00475,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00478,drop,invalid/truncated JSON
+tr-00485,fix,priority P1->P3
+tr-00497,drop,invalid/truncated JSON
+tr-00503,fix,priority P1->P3
+tr-00505,fix,priority P1->P3
+tr-00508,fix,priority P1->P3
+tr-00516,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00517,fix,needs_human True->False
+tr-00523,fix,priority P1->P3
+tr-00533,fix,priority P1->P3
+tr-00534,fix,needs_human True->False
+tr-00555,drop,garbage/test row: 'test test 123'
+tr-00556,fix,renamed prio->priority (value recomputed); date 13/07/2026->2026-07-13; priority MISSING->P1
+tr-00558,drop,invalid/truncated JSON
+tr-00565,fix,needs_human True->False
+tr-00567,fix,priority P3->P2
+tr-00570,fix,txn_id normalized
+tr-00577,fix,renamed prio->priority (value recomputed); date 06/08/2026->2026-08-06; priority MISSING->P3
+tr-00589,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00595,fix,txn_id normalized
+tr-00602,fix,renamed prio->priority (value recomputed); date 29/06/2026->2026-06-29; priority MISSING->P3
+tr-00605,drop,invalid/truncated JSON
+tr-00606,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00610,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00628,fix,renamed prio->priority (value recomputed); date 13/06/2026->2026-06-13; priority MISSING->P1
+tr-00638,fix,priority P3->P1
+tr-00648,fix,priority P3->P2
+tr-00649,fix,txn_id normalized
+tr-00656,fix,renamed prio->priority (value recomputed); date 20/06/2026->2026-06-20; priority MISSING->P3
+tr-00670,fix,renamed prio->priority (value recomputed); date 20/08/2026->2026-08-20; priority MISSING->P2
+tr-00674,drop,invalid/truncated JSON
+tr-00677,fix,renamed prio->priority (value recomputed); date 14/08/2026->2026-08-14; priority MISSING->P1
+tr-00685,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00689,fix,priority P1->P3
+tr-00704,fix,renamed prio->priority (value recomputed); date 03/06/2026->2026-06-03; priority MISSING->P1
+tr-00706,fix,priority P3->P2
+tr-00707,fix,priority P3->P2
+tr-00717,fix,priority P1->P3
+tr-00724,fix,needs_human True->False
+tr-00727,fix,priority P2->P3; needs_human False->True
+tr-00735,drop,invalid/truncated JSON
+tr-00744,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-00745,fix,priority P1->P3
+tr-00746,fix,priority P3->P2
+tr-00757,fix,priority P1->P3
+tr-00765,drop,invalid/truncated JSON
+tr-00771,fix,txn_id normalized
+tr-00778,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00782,fix,priority P1->P3
+tr-00790,drop,garbage/test row: 'asdf asdf'
+tr-00791,fix,renamed prio->priority (value recomputed); date 31/08/2026->2026-08-31; priority MISSING->P3
+tr-00794,drop,garbage/test row: 'test test 123'
+tr-00802,fix,priority P1->P3
+tr-00809,drop,invalid/truncated JSON
+tr-00820,fix,renamed prio->priority (value recomputed); date 31/05/2026->2026-05-31; priority MISSING->P3
+tr-00824,drop,invalid/truncated JSON
+tr-00828,fix,needs_human True->False
+tr-00838,fix,txn_id normalized
+tr-00839,fix,renamed prio->priority (value recomputed); date 17/09/2026->2026-09-17; priority MISSING->P2
+tr-00846,drop,invalid/truncated JSON
+tr-00852,fix,priority P3->P1
+tr-00879,fix,priority P1->P3
+tr-00888,fix,txn_id normalized
+tr-00890,fix,priority P3->P1
+tr-00899,fix,txn_id normalized
+tr-00902,fix,needs_human True->False
+tr-00908,fix,txn_id normalized
+tr-00922,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-00929,fix,needs_human True->False
+tr-00932,fix,priority P3->P2
+tr-00933,fix,priority P1->P3
+tr-00958,drop,invalid/truncated JSON
+tr-00960,drop,invalid/truncated JSON
+tr-00964,fix,needs_human True->False
+tr-00967,fix,priority P1->P3
+tr-00975,drop,invalid/truncated JSON
+tr-00978,drop,invalid/truncated JSON
+tr-00979,drop,invalid/truncated JSON
+tr-00980,drop,invalid/truncated JSON
+tr-00985,fix,renamed prio->priority (value recomputed); date 02/09/2026->2026-09-02; priority MISSING->P1
+tr-00987,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01006,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01012,fix,txn_id normalized
+tr-01017,fix,priority P3->P1
+tr-01019,fix,priority P3->P1
+tr-01023,fix,priority P3->P1
+tr-01028,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01032,drop,garbage/test row: 'test'
+tr-01046,fix,renamed prio->priority (value recomputed); date 25/06/2026->2026-06-25; priority MISSING->P2
+tr-01048,fix,priority P1->P3
+tr-01070,drop,invalid/truncated JSON
+tr-01080,fix,needs_human True->False
+tr-01083,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-01086,fix,priority P3->P1
+tr-01087,drop,invalid/truncated JSON
+tr-01089,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01109,fix,priority P3->P2
+tr-01115,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-01131,fix,priority P3->P2
+tr-01133,fix,renamed prio->priority (value recomputed); date 25/07/2026->2026-07-25; priority MISSING->P3
+tr-01136,fix,txn_id normalized
+tr-01143,fix,renamed prio->priority (value recomputed); date 12/09/2026->2026-09-12; priority MISSING->P3
+tr-01146,fix,priority P1->P3
+tr-01151,fix,renamed prio->priority (value recomputed); priority MISSING->P1
+tr-01155,fix,needs_human True->False
+tr-01158,fix,renamed prio->priority (value recomputed); date 30/06/2026->2026-06-30; priority MISSING->P3
+tr-01166,drop,garbage/test row: 'asdf asdf'
+tr-01178,fix,renamed prio->priority (value recomputed); date 09/08/2026->2026-08-09; priority MISSING->P3
+tr-01188,fix,txn_id normalized
+tr-01197,fix,needs_human True->False
+tr-01199,drop,invalid/truncated JSON
+tr-01202,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01222,fix,priority P1->P3
+tr-01238,fix,txn_id normalized
+tr-01259,fix,needs_human True->False
+tr-01274,fix,renamed prio->priority (value recomputed); date 23/07/2026->2026-07-23; priority MISSING->P1
+tr-01286,fix,renamed prio->priority (value recomputed); priority MISSING->P2
+tr-01298,fix,needs_human True->False
+tr-01301,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01304,drop,garbage/test row: 'test'
+tr-01305,fix,priority P3->P2
+tr-01314,drop,garbage/test row: 'asdf asdf'
+tr-01319,fix,priority P3->P1
+tr-01326,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01331,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01343,fix,renamed prio->priority (value recomputed); date 05/07/2026->2026-07-05; priority MISSING->P3
+tr-01359,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01363,fix,txn_id normalized
+tr-01366,fix,renamed prio->priority (value recomputed); date 10/09/2026->2026-09-10; priority MISSING->P1
+tr-01370,fix,priority P3->P1
+tr-01375,fix,priority P2->P3
+tr-01386,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01403,fix,priority P3->P1
+tr-01407,fix,priority P1->P3
+tr-01413,fix,renamed prio->priority (value recomputed); priority MISSING->P3
+tr-01417,fix,needs_human True->False
+tr-01441,fix,renamed prio->priority (value recomputed); priority MISSING->P3
